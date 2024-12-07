@@ -254,10 +254,28 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 my-3">
                 <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                    <img src="images/rooms/1.jpg" class="card-img-top" alt="...">
+                    <img src="images/rooms/1.jpg" class="card-img-top">
                     <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5>Szimpla szoba</h5>
+                    <h6 class="mb-4">7500 Ft/éj</h6>
+                        <div class="features mb-4">
+                        <h6 class="mb-1">Tulajdonságok</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 szoba
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 fűrdőszoba
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 erkély
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                3 kanapé
+                            </span>
+                        </div>
+                        <div class="facilities mb-4">
+                        <h6 class="mb-1">Szolgáltatások</h6>
+                        </div>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
                 </div>
