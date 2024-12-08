@@ -273,13 +273,35 @@
                                 3 kanapé
                             </span>
                         </div>
-                        <div class="facilities mb-4">
+
+                    <div class="facilities mb-4">
                         <h6 class="mb-1">Szolgáltatások</h6>
+                        <span class="badge rounded-pill bg-light text-dark t    ext-wrap">
+                               Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Klímatizált
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Mini bár
+                            </span>
                         </div>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-                </div>
-            </div>
+                        <div class="rating mb-4">
+                        <h6 class="mb-1">Értékelés</h6>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        
+        
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                    </div>
+                    </div>
             <div class="col-lg-12 text-center mt-5">
                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">További szobák >>></a>
             </div>
